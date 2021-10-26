@@ -1,0 +1,19 @@
+experiments
+*.pyc
+commons/__pycache__/
+comparative_analyzer/__pycache__/
+logs/
+synthetic_workload_invoker/__pycache__/
+workload_analyzer/__pycache__/
+workload_analyzer/capacity_factors.json
+
+# local config file
+GenConfigs.py
+
+# logs and data archives
+*.log
+*.pkl
+*.out
+
+# compiled bytecode
+__pycache__/
